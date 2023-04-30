@@ -1,7 +1,8 @@
 # darkweblinks
 lista de enlace de la darkweb
-=======================================================DEEPWEB/DARKWEB========================================================
-===================================================ANONYMOUS ESPAÑA GLOBAL===================================================
+
+ ##DEEPWEB/DARKWEB##
+                                                   ##ANONYMOUS ESPAÑA GLOBAL##
 Enlaces web oscuros v3
 ##Nuevos servicios ocultos v3
 
@@ -9,16 +10,18 @@ Enlaces de servicios ocultos de cebolla V3 y obsolescencia de sitios antiguos de
 Los servicios de cebolla de la versión corta 2 quedarán obsoletos, después de 15 años, el Proyecto Tor cambiará a los 
 enlaces .onion de la versión 3 nuevos y más seguros, y también más largos.
 Asegúrese de tener un sitio como este repositorio marcado donde pueda encontrar los nuevos enlaces web oscuros v3.
-La siguiente lista son los primeros sitios que están disponibles como un servicio oculto .onion v3, cuando más sitios 
-cambien al nuevo protocolo, actualizaremos la página de inicio con una lista más grande de enlaces actualizados.
-
-Se recomienda entrar en los siguientes enlaces onion con una seguridad fuerte y adecuada podras ver en la descripcion del 
-video acompañame por la dark web, enlaces que te enseñaran a protegerte adecuadamente para entrar a la web oscura.
+La siguiente lista son los primeros sitios que están disponibles como un servicio oculto .onion v3.
+Se recomienda entrar en los siguientes enlaces onion con una seguridad fuerte y adecuada podras ver en los siguienetes
+enlaces:
+https://odysee.com/@ANONYMOUS:190/%E2%AC%9B%EF%B8%8Fanonymous-como-entrar-en-la-deep:2
+https://odysee.com/@ANONYMOUS:190/INSTALAR-Y-CONFIGURAR-TOR-BROWSER-Y-PROXICHAINS-NAVEGA-DE-FORMA-SEGURA-EN-LA-WEB-PROFUNDA:3
+https://odysee.com/@ANONYMOUS:190/KALITORIFY:0
+enlaces a videos de mi canal en odysee que te enseñaran a protegerte adecuadamente para entrar a la web oscura.
 
 IMPORTANTE!!
 [NO ENTRES EN LOS SIGUIENTES ENLACES SIN UNA SEGURIDAD ADECUADA]
 
-===================================================ANONYMOUS ESPAÑA GLOBAL===================================================
+#ANONYMOUS ESPAÑA GLOBAL#
 
 The Original Hidden Wiki – The oldest hidden wiki
 http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
@@ -109,7 +112,7 @@ Trust Wiki
 http://wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion/
 
 
-=======================================================/NAVEGADORES\========================================================
+#NAVEGADORES#
 
 Haystack
 http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/
@@ -146,8 +149,8 @@ MetaGer – German Search
 http://metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion/
 
 
-=======================================================\Servicios Financieros/============================================== 
-                           Divisas, bancos, mercados monetarios, cámaras de compensación, casas de cambio
+##Servicios Financieros## 
+#Divisas, bancos, mercados monetarios, cámaras de compensación, casas de cambio#
 
 AccMarket – Premium Paypal, Ebay and bank accounts.
 http://z7s2w5vruxbp2wzts3snxs24yggbtdcdj5kp2f6z5gimouyh3wiaf7id.onion/
@@ -235,7 +238,7 @@ The Escrow
 http://escrow4rfs3z34nvd5bjqmtqz6ohsngt2ntuw3aqp6gwavr7dfl4wuad.onion/
 
 
-=========================================================\Servicios Comerciales/============================================
+#Servicios Comerciales#
 
 Mobile Store – Best unlocked cell phones vendor
 http://rxmyl3izgquew65nicavsk6loyyblztng6puq42firpvbe32sefvnbad.onion/
@@ -290,7 +293,7 @@ Cardzilla
 http://cardzilevs4j4nj6uswfwf35oxnp64yrrtazjgap2w3vgoz2pwkp6sqd.onion/
 
 
-=========================================================\Drogas/===========================================================
+#Drogas#
 
 
 DCdutchconnectionUK – The dutch connection for the UK 
@@ -345,7 +348,7 @@ Market Ecstasy
 http://6ewotpaeih7g6gphvesr5td3p4fqtniwzhlxfjszemvbi7zg75ceyzid.onion/
 
 
-=========================================================\Chans/============================================================
+#Chans#
 
 
 8Chan – Successor of 4chan
@@ -371,7 +374,7 @@ http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/
 
 
 
-==========================================================\Servicio de Privacidad/==========================================
+#Servicio de Privacidad#
 
 
 Riseup – Email and more
@@ -390,7 +393,7 @@ BrowsInfo - Check your anonymity and browser traceability.
 http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/binfo_check_anonymity.php
 
 
-====================================================\Proveedores de correo electronico/======================================
+#Proveedores de correo electronico#
 
 
 Cock.li – A good email provider
@@ -422,7 +425,7 @@ http://j3bv7g27oramhbxxuv6gl3dcyfmf44qnvju3offdyrap7hurfprq74qd.onion/
 
 
 
-==============================================\Servicios de alojamiento/Dominio de cebolla/=================================
+#Servicios de alojamiento/Dominio de cebolla#
 
 
 
@@ -440,7 +443,7 @@ http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/
 
 
 
-================================================\Blogs y Sitios Personales/=================================================
+#Blogs y Sitios Personales#
 
 
 qorg11 – qord11.net mirror
@@ -478,7 +481,7 @@ http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/
 
 
 
-=====================================================\Compartición de Archivos/============================================
+#Compartición de Archivos#
 
 
 
@@ -494,7 +497,7 @@ http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion/
 
 
 
-============================================\Hacking | Black Hat Grey Hat White Hat/=========================================
+#Hacking#
 
 
 
@@ -530,7 +533,7 @@ http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion
 
 
 
-=================================================\Sitios de Noticias/=======================================================
+#Sitios de Noticias#
 
 
 
@@ -572,7 +575,7 @@ http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion
 
 
 
-=============================================\Software de código abierto/===================================================
+#Software de código abierto#
 
 
 
@@ -587,7 +590,7 @@ http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/
 
 
 
-===============================================\Bibliotecas/================================================================
+#Bibliotecas#
 
 
 
@@ -605,7 +608,7 @@ http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/
 
 
 
-=================================================\Foros Sociales/===========================================================
+#Foros Sociales#
 
 
 
@@ -693,7 +696,7 @@ http://thestock6nonb74owd6utzh4vld3xsf2n2fwxpwywjgq7maj47mvwmid.onion/
 
 
 
-========================================================\Chats/==============================================================
+#Chats#
 
 
 Ableonion 
@@ -716,7 +719,7 @@ http://juvenilezskkwc2gu7j5c4akppjnr3kzlgljjeodd5psn6fwcnloplid.onion/
 
 
 
-============================================================\Otros Sitios/===================================================
+#Otros Sitios#
 
 
 CIA.gov – Official CIA Site
@@ -749,6 +752,6 @@ http://bvten5svsltfpxrxl72ukqxixwo2m5ek5svmcxgrmkta4tbmiemuibid.onion/
 Deep Web Radio
 http://anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion/
 
-=================================================ANONYMOUS ESPAÑA GLOBAL=====================================================
+#ANONYMOUS ESPAÑA GLOBAL#
 Suscribete a nuestro canal de Odysee
 https://odysee.com/@ANONYMOUS:190
